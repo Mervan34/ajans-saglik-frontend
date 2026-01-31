@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  apiUrl: 'https://api.ajanssaglik.com'
+  apiUrl: 'https://ajans-saglik-backend.onrender.com/'
 };
